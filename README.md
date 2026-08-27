@@ -4,6 +4,8 @@ Projeto da 1ª avaliação prática de PRW2.
 
 ## Funcionalidades
 
+Métodos utilizados: GET / POST
+
 - Cadastro de produtos
 - Seção do produto em lista suspensa
 - Marca do produto em lista suspensa
