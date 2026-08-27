@@ -26,3 +26,4 @@ npm run dev
 - **Repositório GitHub:** https://github.com/BernardoKappIFSP/Loja-de-Inform-tica
 - **Projeto rodando na Vercel:** loja-de-inform-tica.vercel.app
 - **Nome:** BERNARDO KAPP CARDOSO - SC305960X
+- **Nome:** EDUARDO ROCHA PAINO - SC3059596
