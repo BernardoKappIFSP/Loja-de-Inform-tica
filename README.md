@@ -24,3 +24,7 @@ npm run dev
 ## Entrega
 
 Enviar o link do repositório público no GitHub e o link publicado na Vercel.
+https://github.com/BernardoKappIFSP/Loja-de-Inform-tica
+loja-de-inform-tica.vercel.app
+Nome: BERNARDO KAPP CARDOSO
+SC305960X
