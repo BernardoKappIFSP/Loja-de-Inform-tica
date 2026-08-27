@@ -1,0 +1,25 @@
+.banner {
+  background: linear-gradient(135deg, #111827, #243b64);
+  color: #ffffff;
+  padding: 56px 10%;
+}
+
+.banner p {
+  margin: 0 0 8px;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #93c5fd;
+}
+
+.banner h1 {
+  margin: 0;
+  font-size: 42px;
+}
+
+.banner span {
+  display: block;
+  margin-top: 12px;
+  font-size: 18px;
+  color: #dbeafe;
+}

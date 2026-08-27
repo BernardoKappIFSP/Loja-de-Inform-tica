@@ -1,0 +1,45 @@
+.produto {
+  width: 280px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.produto .produto-cabecalho {
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+}
+
+.produto .produto-cabecalho img {
+  max-width: 170px;
+  max-height: 100px;
+}
+
+.produto .produto-rodape {
+  padding: 22px;
+}
+
+.produto .produto-rodape h4 {
+  margin: 0 0 10px;
+  font-size: 20px;
+  color: #1f2937;
+}
+
+.produto .produto-rodape h5 {
+  margin: 0 0 14px;
+  font-size: 18px;
+  color: #2563eb;
+}
+
+.produto .produto-rodape span {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 20px;
+  background-color: #eef2f7;
+  font-size: 14px;
+  font-weight: 700;
+}

@@ -1,0 +1,20 @@
+.area {
+  text-align: center;
+  padding: 40px 7%;
+}
+
+.area h3 {
+  font-size: 30px;
+  border-bottom: 4px solid;
+  display: inline-block;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.area .produtos {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-top: 32px;
+  flex-wrap: wrap;
+}
