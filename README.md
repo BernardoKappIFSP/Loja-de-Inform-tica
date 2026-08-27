@@ -23,7 +23,6 @@ npm run dev
 
 ## Entrega
 
-Enviar o link do repositório público no GitHub e o link publicado na Vercel.
 - **Repositório GitHub:** https://github.com/BernardoKappIFSP/Loja-de-Inform-tica
 - **Projeto rodando na Vercel:** loja-de-inform-tica.vercel.app
 - **Nome:** BERNARDO KAPP CARDOSO - SC305960X
